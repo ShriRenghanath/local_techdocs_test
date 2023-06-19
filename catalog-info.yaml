@@ -1,4 +1,3 @@
-apiVersion: backstage.io/rengha-tech-docs
 kind: Component
 metadata:
   name: rengha-tech-docs
