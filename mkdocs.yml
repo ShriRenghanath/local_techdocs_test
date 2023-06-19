@@ -1,0 +1,7 @@
+site_name: rengha-tech-docs
+site_description: rengh-tech-docs-descrption
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
