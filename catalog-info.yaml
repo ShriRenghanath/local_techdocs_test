@@ -1,0 +1,10 @@
+apiVersion: backstage.io/rengha-tech-docs
+kind: Component
+metadata:
+  name: rengha-tech-docs
+  description: rengha-tech-docs-description
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: Component
+  lifecycle: experimental
